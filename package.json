@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.23.1"
+    "eslint": "^8.23.1",
+    "plugin": "^0.3.3"
   }
 }
